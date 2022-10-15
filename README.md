@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1030726332537126954/1030726431422042142/standard.gif"/>
+<img src="https://cdn.discordapp.com/attachments/1030726332537126954/1030726431422042142/standard.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Parth Thakkar</h1>
